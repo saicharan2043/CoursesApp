@@ -1,0 +1,14 @@
+.nav-bar {
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  background-color: #f1f5f9;
+  padding-left: 100px;
+}
+
+.logo {
+  height: 55px;
+}
+.link {
+  text-decoration: none;
+}
